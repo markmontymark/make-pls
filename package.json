@@ -1,0 +1,16 @@
+{
+  "name": "make-pls",
+  "version": "0.0.0",
+  "description": "",
+	"bin" : "make-pls.js",
+  "main": "make-pls.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Koopman",
+  "license": "ISC",
+  "dependencies": {
+    "walk": "^2.3.9"
+  },
+  "repository": "https://github.com/markmontymark/make-pls"
+}

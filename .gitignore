@@ -1,3 +1,7 @@
+# Play list files created by make-pls.js
+
+pls-*
+
 # Logs
 logs
 *.log
